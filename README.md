@@ -8,7 +8,7 @@ Repositório do projeto feito em aula da disciplina de IoT
 
 - A branch worker deve ser colocado em seu worker do cloudflare e o endereço do mesmo deve ser colocado nos códigos dos ESP32.
 
-- A branch porta serve para os ESP32 onde você verifica se as TAGs estão cadastradas.
+- A branch leitor serve para os ESP32 onde você verifica se as TAGs estão cadastradas.
 
 ### Grupo:
 
